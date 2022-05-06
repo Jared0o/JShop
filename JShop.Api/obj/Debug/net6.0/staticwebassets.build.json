@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6fOOf2wGzYbrp+RPLcVHhJwEBI7yTB7ABPCI8u4a5rI=",
+  "Source": "JShop.Api",
+  "BasePath": "_content/JShop.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

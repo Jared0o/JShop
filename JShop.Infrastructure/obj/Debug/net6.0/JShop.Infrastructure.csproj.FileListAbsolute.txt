@@ -1,0 +1,15 @@
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\bin\Debug\net6.0\JShop.Infrastructure.deps.json
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\bin\Debug\net6.0\JShop.Infrastructure.dll
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\bin\Debug\net6.0\JShop.Infrastructure.pdb
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\bin\Debug\net6.0\JShop.Core.dll
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\bin\Debug\net6.0\JShop.Core.pdb
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.AssemblyInfo.cs
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.csproj.CopyComplete
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.dll
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\refint\JShop.Infrastructure.dll
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\JShop.Infrastructure.pdb
+C:\Users\przyb\source\repos\JShop\JShop.Infrastructure\obj\Debug\net6.0\ref\JShop.Infrastructure.dll

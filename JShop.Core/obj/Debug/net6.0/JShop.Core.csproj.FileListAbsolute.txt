@@ -1,0 +1,12 @@
+C:\Users\przyb\source\repos\JShop\JShop.Core\bin\Debug\net6.0\JShop.Core.deps.json
+C:\Users\przyb\source\repos\JShop\JShop.Core\bin\Debug\net6.0\JShop.Core.dll
+C:\Users\przyb\source\repos\JShop\JShop.Core\bin\Debug\net6.0\JShop.Core.pdb
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.csproj.AssemblyReference.cache
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.AssemblyInfoInputs.cache
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.AssemblyInfo.cs
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.dll
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\refint\JShop.Core.dll
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\JShop.Core.pdb
+C:\Users\przyb\source\repos\JShop\JShop.Core\obj\Debug\net6.0\ref\JShop.Core.dll
