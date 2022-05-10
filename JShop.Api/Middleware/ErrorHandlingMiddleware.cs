@@ -50,7 +50,28 @@ namespace JShop.Api.Middleware
 
                 await context.Response.WriteAsync(response);
             }
+            catch(BadPasswordException e)
+            {
+                int statusCode = 401;
+                context.Response.StatusCode = statusCode;
 
+                errors.Add(e.Message);
+
+                var response = new ErrorResponse(statusCode, errors).ToString();
+
+                await context.Response.WriteAsync(response);
+            }
+            catch(NotFoundException e)
+            {
+                int statusCode = 404;
+                context.Response.StatusCode = statusCode;
+
+                errors.Add(e.Message);
+
+                var response = new ErrorResponse(statusCode, errors).ToString();
+
+                await context.Response.WriteAsync(response);
+            }
             catch (Exception)
             {
                 var statusCode = 500;

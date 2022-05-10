@@ -22,11 +22,18 @@ namespace JShop.Infrastructure
             //repositories
             service.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
             service.AddScoped<ITaxRepository, TaxRepository>();
+            service.AddScoped<IBrandRepository, BrandRepository>();
+            service.AddScoped<ICategoryRepository, CategoryRepository>();
+            service.AddScoped<IProductReposiotry, ProductRepository>();
 
             //services
             service.AddScoped<ITaxService, TaxService>();
             service.AddScoped<ITokenService, TokenService>();
             service.AddScoped<IAuthService, AuthService>();
+            service.AddScoped<IBrandService, BrandService>();
+            service.AddScoped<ICategoryService, CategoryService>();
+            service.AddScoped<IProductService, ProductService>();
+
             //Automapper
             service.AddAutoMapper(Assembly.GetExecutingAssembly());
 

@@ -2,7 +2,7 @@
 
 namespace JShop.Core.Repositories
 {
-    internal interface IBrandRepository : IBaseRepository<Brand>
+    public interface IBrandRepository : IBaseRepository<Brand>
     {
     }
 }

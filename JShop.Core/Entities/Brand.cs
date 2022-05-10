@@ -11,6 +11,7 @@ namespace JShop.Core.Entities
         public User? CreatedBy { get; set; }
         public User? UpdatedBy { get; set; }
 
+        #pragma warning disable CS8618
         /// <summary>
         /// For EFCORE
         /// </summary>

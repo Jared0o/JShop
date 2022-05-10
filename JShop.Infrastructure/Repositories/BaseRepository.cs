@@ -15,6 +15,7 @@ namespace JShop.Infrastructure.Repositories
         }
         public async Task AddAsync(T entity)
         {
+            entity.CreatedAt = DateTime.Now;
             await _context.Set<T>().AddAsync(entity);
             await _context.SaveChangesAsync();
         }
@@ -30,13 +31,14 @@ namespace JShop.Infrastructure.Repositories
             return await _context.Set<T>().ToListAsync();
         }
 
-        public async Task<T> GetByIdAsync(int id)
+        public async Task<T?> GetByIdAsync(int id)
         {
-            return await _context.Set<T>().FirstOrDefaultAsync(x => x.Id == id);
+            return await _context.Set<T>().SingleOrDefaultAsync(x => x.Id == id);
         }
 
         public  async Task UpdateAsync(T entity)
         {
+            entity.UpdatedAt = DateTime.Now;
             _context.Set<T>().Update(entity);
             await _context.SaveChangesAsync();
         }

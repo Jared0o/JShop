@@ -1,7 +1,8 @@
 ﻿using AutoMapper;
 using JShop.Core.Entities;
-using JShop.Core.Entities.Identity;
-using JShop.Infrastructure.Dto.Auth;
+using JShop.Infrastructure.Dto.Brand;
+using JShop.Infrastructure.Dto.Category;
+using JShop.Infrastructure.Dto.Product;
 using JShop.Infrastructure.Dto.Tax;
 
 namespace JShop.Infrastructure
@@ -12,6 +13,12 @@ namespace JShop.Infrastructure
         {
             CreateMap<TaxRequest, Tax>();
             CreateMap<Tax, TaxResponse>();
+            CreateMap<Brand, BrandResponse>();
+            CreateMap<BrandRequest, Brand>();
+            CreateMap<Category, CategoryResponse>();
+            CreateMap<CategoryRequest, Category>();
+            CreateMap<ProductRequest, Product>();
+            CreateMap<Product, ProductResponse>();
         }
     }
 }
